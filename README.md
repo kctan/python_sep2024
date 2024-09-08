@@ -10,6 +10,9 @@ Wait for discounted price of about $20 is you are planning to sign up for the co
 Book (Online)
 https://greenteapress.com/wp/think-python-2e/
 
+## Python tutor Visualize code
+https://pythontutor.com/python-compiler.html#mode=edit
+
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
 
