@@ -25,5 +25,8 @@ https://www.jetbrains.com/pycharm/
 ## Some Free Online Python ebooks 
 https://inventwithpython.com/
 
+## Free course (for now) by DeepLearning.ai (Learning python with the help of Gen AI)
+https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+
 ## Practice Questions on Python
 https://codingbat.com/python
