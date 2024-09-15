@@ -34,9 +34,9 @@ msg.attach(img)
 
 
 
-sender_email_address ="sitsprint@gmail.com"
-sender_email_password = "uurltlnomitneezj"
-receiver_email_address = "tkokchen@gmail.com"
+sender_email_address ="<your gmail account"
+sender_email_password = "<your app pasword>"
+receiver_email_address = "<recipient email>"
 #email_title_content = "Subject: Sending Email Using Python\nThis is a test mail.f"
 
 print("Trying to connect o Gmail SMTP server")
