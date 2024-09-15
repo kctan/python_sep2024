@@ -1,0 +1,10 @@
+import subprocess
+import sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", "pandas"])
+
+try:
+	import pandas
+	print("module 'pandas' is installed")
+except ModuleNotFoundError:
+	print("module 'pandas' is not installed")
+	print("try running this Python script again")
